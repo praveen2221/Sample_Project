@@ -32,9 +32,9 @@ class FloorInfo extends GetView<FloorInfoController> {
 
   Widget additionalInfo(String text,String text1) {
     return Padding(
-      padding: const EdgeInsets.only(bottom: 20),
+      padding: const EdgeInsets.only(left: 20,bottom: 20),
       child: SizedBox(
-        width: 350,
+        width: double.infinity,
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
                 children: [

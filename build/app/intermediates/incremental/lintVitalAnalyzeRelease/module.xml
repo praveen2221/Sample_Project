@@ -1,11 +1,11 @@
 <lint-module
     format="1"
-    dir="/Users/praveena/Documents/Flutter-project/sample_project/android/app"
+    dir="/Users/praveena/Documents/sample_project/android/app"
     name=":app"
     type="APP"
     maven="android:app:"
     gradle="7.3.0"
-    buildFolder="/Users/praveena/Documents/Flutter-project/sample_project/build/app"
+    buildFolder="/Users/praveena/Documents/sample_project/build/app"
     bootClassPath="/Users/praveena/Library/Android/sdk/platforms/android-33/android.jar:/Users/praveena/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
     javaSourceLevel="1.8"
     compileTarget="android-33">

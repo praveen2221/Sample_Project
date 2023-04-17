@@ -1,4 +1,4 @@
-#Mon Apr 17 10:23:10 IST 2023
-base.0=/Users/praveena/Documents/Flutter-project/sample_project/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Mon Apr 17 12:47:30 IST 2023
+base.0=/Users/praveena/Documents/sample_project/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
